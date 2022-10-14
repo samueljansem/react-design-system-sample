@@ -60,13 +60,13 @@ export function App() {
                 <footer className="flex flex-col items-center gap-4 mt-8">
                     <Text
                         size="sm"
-                        className="text-gray-400 underline cursor-pointer"
+                        className="text-gray-400 underline cursor-pointer hover:text-gray-200"
                     >
                         <a href="#">Esqueceu sua senha?</a>
                     </Text>
                     <Text
                         size="sm"
-                        className="text-gray-400 underline cursor-pointer"
+                        className="text-gray-400 underline cursor-pointer hover:text-gray-200"
                     >
                         <a href="#">Não possui conta? Crie uma agora!</a>
                     </Text>
